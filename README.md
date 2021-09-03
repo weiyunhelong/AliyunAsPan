@@ -50,5 +50,20 @@ docker run -d --name=webdav-aliyundriver --restart=always -p 8080:8080  -v /etc/
 > * ![Image text](https://user-images.githubusercontent.com/9125526/132015720-6884fc7c-b886-4526-9170-1fce43126701.jpg)
 > * 账号密码都为admin
 
-6》
+6》登录成功后，会进入到阿里云盘中，展示你自己的云盘内容
+> * 这是我自己的阿里云盘内容
+> * ![Image text](https://user-images.githubusercontent.com/9125526/132016248-325cc58a-38b3-4ab6-a711-3f8dfb81c6a0.jpg)
+> * 此时已看到万里长城，兄弟们再努把子力气，胜利的曙光就要到来啦。
+
+7》接下来是系统端操作啦
+> * 回到桌面，使用快捷键Command+K键，浮窗如下图所示
+> * ![Image text](https://user-images.githubusercontent.com/9125526/132016645-f7bfb309-6b90-4da9-9158-99ae146d5126.jpg)
+> * 输入网址为：http://127.0.0.1:8080,然后在点击连接按钮或者回车键，之后会出现确认连接提示浮窗，如下:
+> * ![Image text](https://user-images.githubusercontent.com/9125526/132016765-ebc6f0ee-6b6e-4678-ae82-4a4dc50af56c.jpg)
+> * 点击连接按钮，再次输入账户密码都为admin
+
+8》链接成功之后，找到位置，下面出现127.0.0.1，点击即出现阿里云盘。
+> * ![Image text](https://user-images.githubusercontent.com/9125526/132016935-3d729b59-41e5-463c-9b1f-3297e5a5ac4a.jpg)
+
+9》大功告成！！！回家吃饭饭～～～
 
